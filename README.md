@@ -11,7 +11,7 @@ Since it loads quite a lot of resources (images & sounds), it may not start well
 ## Reusability
 
 This demo demonstrates how you can port existing JavaFx applications.
-There was indeed already a [JavaFx version][hansolo-spacefx-link] of the game, and this demo is just a port of it in WebFx so the game could be transpiled into a Web Application.
+This game was indeed already written [in JavaFx][hansolo-spacefx-link], and this demo is just a port of it in WebFx so the game could be transpiled into a Web Application.
 
 ## Canvas mapping
 
