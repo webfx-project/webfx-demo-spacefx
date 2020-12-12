@@ -69,7 +69,7 @@
     <properties>
         <plugin.javapackager.name>SpaceFx</plugin.javapackager.name>
         <plugin.javapackager.displayName>Space Fx</plugin.javapackager.displayName>
-        <plugin.javapackager.url>https://webfx-spacefx-demo.netlify.app</plugin.javapackager.url>
+        <plugin.javapackager.url>https://spacefx.webfx-project.org</plugin.javapackager.url>
     </properties>
 
     <build>
