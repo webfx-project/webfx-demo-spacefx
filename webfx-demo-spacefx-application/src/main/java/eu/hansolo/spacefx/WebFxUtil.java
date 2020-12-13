@@ -5,9 +5,9 @@ import javafx.scene.image.Image;
 import javafx.scene.media.AudioClip;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
-import webfx.platform.shared.services.resource.ResourceService;
-import webfx.platform.shared.services.scheduler.Scheduler;
-import webfx.platform.shared.services.shutdown.Shutdown;
+import dev.webfx.platform.shared.services.resource.ResourceService;
+import dev.webfx.platform.shared.services.scheduler.Scheduler;
+import dev.webfx.platform.shared.services.shutdown.Shutdown;
 
 import java.util.ArrayList;
 import java.util.List;
