@@ -17,5 +17,5 @@ This game was indeed already written [in JavaFx][hansolo-spacefx-link], and this
 
 This demo also shows that you can write applications such as games using the JavaFx canvas API.
 
-[demo-live-link]: https://spacefx.webfx-project.org
+[demo-live-link]: https://spacefx.webfx.dev
 [hansolo-spacefx-link]: https://github.com/HanSolo/SpaceFX
