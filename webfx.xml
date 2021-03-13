@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+
+    <modules>
+        <module>webfx-demo-spacefx-application</module>
+        <module>webfx-demo-spacefx-application-javafx</module>
+        <module>webfx-demo-spacefx-application-gwt</module>
+        <module>webfx-demo-spacefx-application-gluon</module>
+    </modules>
+
+</module>
+
