@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module>
 
-    <packages exports="true"/>
+    <packages exports="true">
+        <package resource="true">eu.hansolo.spacefx</package>
+    </packages>
+
 
     <providers>
         <provider spi="javafx.application.Application">eu.hansolo.spacefx.SpaceFX</provider>
     </providers>
-
-    <resource-packages>
-        <package>eu.hansolo.spacefx</package>
-    </resource-packages>
 
 </module>
