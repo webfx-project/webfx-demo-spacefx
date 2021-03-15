@@ -1,7 +1,8 @@
-<module executable="true">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project executable="true">
 
     <dependencies>
         <source-modules/>
     </dependencies>
 
-</module>
+</project>
