@@ -1,3 +1,7 @@
 <module executable="true">
 
+    <dependencies>
+        <source-modules/>
+    </dependencies>
+
 </module>

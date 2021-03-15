@@ -6,9 +6,12 @@
         <resource-package>eu.hansolo.spacefx</resource-package>
     </packages>
 
-
     <providers>
         <provider spi="javafx.application.Application">eu.hansolo.spacefx.SpaceFX</provider>
     </providers>
+
+    <dependencies>
+        <source-modules/>
+    </dependencies>
 
 </module>
